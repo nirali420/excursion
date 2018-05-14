@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+    font-family: Verdana;
+    text-align: center;
+}
+
+#video h1 {
+    font-weight: normal;
+    font-size: 50px;
+    color: white;
+}
+
+p a {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+#pic h1 {
+    font-weight: 400;
+    font-size: 42px;
+    color: white;
+}
+
+h3 {
+    font-size: 21px;
+    color: gray;
+}
+
+#footer p {
+    color: gray;
+    text-align: right;
+}
