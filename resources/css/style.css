@@ -4,29 +4,29 @@ body {
     text-align: center;
 }
 
-#video h1 {
-    font-weight: normal;
+h1 {
     font-size: 50px;
+    font-weight: normal;
     color: white;
 }
 
-p a {
+.link a {
     color: aquamarine;
     font-size: 16px;
 }
 
-#pic h1 {
-    font-weight: 400;
+h2 {
     font-size: 42px;
+    font-weight: 300;
     color: white;
 }
 
-h3 {
+p {
     font-size: 21px;
     color: gray;
 }
 
-#footer p {
+footer {
     color: gray;
     text-align: right;
 }
